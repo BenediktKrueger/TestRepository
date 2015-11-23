@@ -1,3 +1,3 @@
 # TestRepository
 1st use
-I love :Coffee: and :Pizza:.
+I love :coffee: and :pizza:.
